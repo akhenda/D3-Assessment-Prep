@@ -1,0 +1,22 @@
+{
+  "name": "d3-assessment-prep",
+  "version": "0.0.1",
+  "description": "This repo tracks my preparedness for the D3 Assessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://google.com"
+  },
+  "keywords": [
+    "Andela",
+    "D3",
+    "Senior",
+    "Developer",
+    "JavaScript"
+  ],
+  "author": "Joseph Akhenda",
+  "license": "MIT"
+}
